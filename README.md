@@ -16,8 +16,8 @@ MSI-Z170-A-PRO
 | dGPU | Sapphire | RX 570 Pulse ITX 4GB  | built-in |  |
 | dGPU | XFX  | RX 460 2GB | built-in | Bios flash  to [Gigabyte.RX460](https://www.techpowerup.com/vgabios/187609/gigabyte-rx460-2048-160804)   |
 | SSD | Goodram |  Cx400 128 Gb  | | |
-| SSD | Adata | Idk  | | |
-| Wireless | Fenvi | FV HB1200  Wi-Fi 2.4/5GHz and Bluetooth 4.0 PCI-E Card | built-in |  |
+| SSD | Adata | Premier Pro SP900  | | |
+| Wireless | Fenvi | FV HB1200  Wi-Fi 2.4/5GHz and Bluetooth PCI-E Card | built-in |  |
 | Ethernet | Realtek | RTL8111 | [RealtekRTL8111.kext](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases) | |
 | Audio | Realtek | ALC892 | [AppleALC](https://github.com/acidanthera/AppleALC) | I have broken audio card ona my motherboard |
 ## BIOS Setup
@@ -46,7 +46,8 @@ Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to generate your own uniq
 I chose 15 USB ports in my USB map. 4x USB 3.0(back) + 2x USB 2.0(back) + Bluetooth(internal via USB 2.0) 
 If booting macOS Ventura, you need to spoof your iGPU as the closest Kaby Lake model.
 | Key | Type | Value |
-| --- | --- | --- |
+| AAPL,ig-platform-id | Data | 00001B59 |
+| device-id | Data | 16590000 |
 
 alcid=1
 ## Links:
