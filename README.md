@@ -45,7 +45,9 @@ Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to generate your own uniq
 ## Note
 I chose 15 USB ports in my USB map. 4x USB 3.0(back) + 2x USB 2.0(back) + Bluetooth(internal via USB 2.0) 
 If booting macOS Ventura, you need to spoof your iGPU as the closest Kaby Lake model.
+
 | Key | Type | Value |
+|-----|-----|-----|
 | AAPL,ig-platform-id | Data | 00001B59 |
 | device-id | Data | 16590000 |
 
