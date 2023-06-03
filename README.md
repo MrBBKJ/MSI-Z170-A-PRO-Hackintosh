@@ -19,7 +19,7 @@ MSI-Z170-A-PRO
 | SSD | Adata | Premier Pro SP900  | | |
 | Wireless | Fenvi | FV HB1200  Wi-Fi 2.4/5GHz and Bluetooth PCI-E Card | built-in |  |
 | Ethernet | Realtek | RTL8111 | [RealtekRTL8111.kext](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases) | |
-| Audio | Realtek | ALC892 | [AppleALC](https://github.com/acidanthera/AppleALC) | I have broken audio card ona my motherboard |
+| Audio | Realtek | ALC892 | [AppleALC](https://github.com/acidanthera/AppleALC) | I have a broken sound card on my motherboard, so I'm not sure about the configuration |
 ## BIOS Setup
 ### Disable
 - Fast Boot
