@@ -5,6 +5,20 @@ MSI-Z170-A-PRO
 =============
 [![](https://asset.msi.com/resize/image/global/product/five_pictures1_3571_2015090218004355e6c8cb75bf4.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png)](https://www.msi.com/Motherboard/Z170-A-PRO/Specification "MSI-Z170-A-PRO")
 ## Working:
+- [x] CPU power management.
+- [x] Graphics acceleration.
+- [x] Keyboard / trackpad with all macOS gestures.
+- [x] Wi-Fi.
+- [x] Bluetooth.
+- [x] USB ports.
+- [x] Ethernet.
+- [x] AirDrop 
+- [x] Handoff
+- [x] AirPlay 
+- [x] Screen Mirroring.
+- [x] iCloud 
+- [x] App Store.
+- [x] iMessage / FaceTime.
 
 ## Hardware
 | Item | Brand | Model | Driver | Comment |
@@ -43,7 +57,7 @@ MSI-Z170-A-PRO
 ## SMBIOS FIX:
 Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to generate your own unique SMBIOS. If running macOS Ventura, use a Kaby Lake SMBIOS iMac18,3.
 ## Note
-I chose 15 USB ports in my USB map. 4x USB 3.0(back) + 2x USB 2.0(back) + Bluetooth(internal via USB 2.0) 
+I chose 15 USB ports in my USB map. 4x USB 3.0(back) + 2x USB 2.0(back) + 1x USB 2.0(front)+ Bluetooth via USB 2.0(front)
 If booting macOS Ventura, you need to spoof your iGPU as the closest Kaby Lake model.
 
 | Key | Type | Value |
@@ -51,7 +65,6 @@ If booting macOS Ventura, you need to spoof your iGPU as the closest Kaby Lake m
 | AAPL,ig-platform-id | Data | 00001B59 |
 | device-id | Data | 16590000 |
 
-alcid=1
 ## Links:
 
 [**Apple**](http://apple.com/)
