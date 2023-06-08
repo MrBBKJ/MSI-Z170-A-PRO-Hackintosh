@@ -26,9 +26,10 @@ MSI-Z170-A-PRO
 ## Hardware
 | Item | Brand | Model | Driver | Comment |
 |-----|-----|-----|-----|-----|
-| Motherboard | MSI | Z170-A-PRO | | |
+| Motherboard | MSI | Z170-A-PRO | | | 
 | CPU | Intel | i5-6600K OC 4,5 Ghz | | |
-| RAM | G.Skill |  Ripjaws V 2x4GB DDR4 / GoodRam Play, DDR4, 4 GB, 2400MHz, CL15  | | |
+| RAM | G.Skill |  Ripjaws V 2x4GB DDR4 2400MHz  | | |
+| RAM | GoodRam |  Play 4 GB 2400MHz | | |
 | iGPU | Intel | HD Graphics 530 | built-in | Headless mode |
 | dGPU | Sapphire | RX 570 Pulse ITX 4GB  | built-in |  |
 | dGPU | XFX  | RX 460 2GB | built-in | Bios flash  to [Gigabyte.RX460](https://www.techpowerup.com/vgabios/187609/gigabyte-rx460-2048-160804)   |
