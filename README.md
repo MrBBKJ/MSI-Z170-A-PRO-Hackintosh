@@ -1,8 +1,7 @@
 # MSI-Z170-A-PRO-Hackintosh
 
 This is an Opencore 0.9.2 version of MSI-Z170-A-PRO Hackintosh EFI. It works on macOS Ventura 13.4
-
-![Screenshot 2023-06-08 at 17 05 53](https://github.com/MrBBKJ/MSI-Z170-A-PRO-Hackintosh/assets/76248058/bcb82758-b309-4664-ba81-c853c011e4b4)
+![Screenshot 2023-06-08 at 17 05 53](https://github.com/MrBBKJ/MSI-Z170-A-PRO-Hackintosh/assets/76248058/b92d7972-ac57-4ff9-b950-2d88ef0b06b6)
 
 MSI-Z170-A-PRO
 =============
