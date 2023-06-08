@@ -22,6 +22,8 @@ MSI-Z170-A-PRO
 - [x] iCloud 
 - [x] App Store.
 - [x] iMessage / FaceTime.
+- [x] Unlock with Apple Watch.
+- [x] DRM 
 
 ## Hardware
 | Item | Brand | Model | Driver | Comment |
